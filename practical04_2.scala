@@ -1,7 +1,7 @@
 import scala.io.StdIn._
 
 object RestockedInventory {
-  // Example inventory data (replace with your actual data)
+  // Example inventory data
   val itemNames: Array[String] = Array("Apples", "Bananas", "Oranges")
   val itemQuantities: Array[Int] = Array(10, 15, 20)
 
